@@ -1,2 +1,2 @@
 # course-work
-This repository the functionality for the account operations widget
+This repository contains the functionality for the account operations widget
