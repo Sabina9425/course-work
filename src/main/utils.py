@@ -1,6 +1,6 @@
 import json
 from typing import List
-from operations import Operation
+from .operations import Operation
 
 
 def parse_operations(json_file_path: str) -> List[Operation]:

@@ -1,4 +1,4 @@
-from operation_amount import OperationAmount
+from .operation_amount import OperationAmount
 
 class Operation:
     def __init__(self, id: int, state: str, date: str, operation_amount: OperationAmount, description: str, from_account: str, to_account: str):

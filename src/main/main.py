@@ -1,4 +1,4 @@
-from utils import parse_operations
+from .utils import parse_operations
 from datetime import datetime
 
 
@@ -44,7 +44,3 @@ def print_last_executed_operations(json_file_path: str):
             print("Unknown -> Unknown")
         print(f"{amount}")
         print("")
-
-
-json_file_path = 'operations.json'
-print_last_executed_operations(json_file_path)
