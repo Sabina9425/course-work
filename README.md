@@ -1,2 +1,2 @@
 # course-work
-This repository contains the functionality for the account operations widget
+This function displays a list of the last 5 operations performed by the client in the format: transfer date, transfer description, from, to, transfer amount, value
